@@ -4,14 +4,10 @@ Proyecto de Prácticas Profesionalizantes I y II de la Carrera Tecnicatura Super
 Instituto Superior de Formación Técnica 151
 
 *Tecnologías:*
-C
 
-C++
-
-CGI y Apache Server
-
-HTML
-
-CSS 
-
-JS
+1. C
+2. C++
+3. CGI y Apache Server
+4. HTML
+5. CSS 
+6. JS
