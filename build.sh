@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -o upload.exe upload_file.cpp /usr/lib/x86_64-linux-gnu/libcgicc.a
+g++ -o ./build/upload.exe upload.cpp /usr/lib/x86_64-linux-gnu/libcgicc.a
