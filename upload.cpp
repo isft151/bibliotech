@@ -1,3 +1,9 @@
+ /**
+* Copyright (c) 2020 ISFT N°151. All rights reserved.
+* Released under the MIT license
+* https://opensource.org/licenses/MIT
+**/
+
  #include <iostream>
  #include <fstream>
 
